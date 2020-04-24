@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+env/
+__pycache__/
+.vscode/
+*.cfg
+bin
+lib
+venv/
+train_dataset/
+logs/
+*.h5
